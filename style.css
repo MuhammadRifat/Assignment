@@ -123,3 +123,12 @@ section{
     width: 3%;
     margin: 10px;
 }
+.banner-one{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+.banner-two{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
